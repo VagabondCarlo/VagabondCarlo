@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Carlo
-- 👀 I’m interested in Cybersecurity preferably OSINT and other Information Gathering tradecraft
+- 👀 I’m interested in Cybersecurity, especially OSINT and other information-gathering methods
 - 🌱 I’m currently earning my certs in CYSA+ and Certified Pentester.
 - 💞️ I’m looking to collaborate on OSINT and OppSec practices.
 
